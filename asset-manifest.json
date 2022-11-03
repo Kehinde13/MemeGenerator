@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MemeGenerator/static/css/main.1eebf34b.css",
+    "main.js": "/MemeGenerator/static/js/main.191e72b7.js",
+    "static/media/logo.jpg": "/MemeGenerator/static/media/logo.7cb53ba9f22e09c46151.jpg",
+    "index.html": "/MemeGenerator/index.html",
+    "main.1eebf34b.css.map": "/MemeGenerator/static/css/main.1eebf34b.css.map",
+    "main.191e72b7.js.map": "/MemeGenerator/static/js/main.191e72b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eebf34b.css",
+    "static/js/main.191e72b7.js"
+  ]
+}
